@@ -9,6 +9,7 @@
   "author": "Nehal Patel",
   "license": "ISC",
   "dependencies": {
-    "emitter": "0.0.5"
+    "emitter": "0.0.5",
+    "eventemitter": "^0.3.3"
   }
 }
