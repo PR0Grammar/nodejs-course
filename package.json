@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "emitter": "0.0.5",
-    "eventemitter": "^0.3.3"
+    "eventemitter": "^0.3.3",
+    "util": "^0.10.3",
+    "utilities": "^1.0.5"
   }
 }

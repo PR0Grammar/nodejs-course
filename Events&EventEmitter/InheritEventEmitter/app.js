@@ -7,6 +7,7 @@ var userInfo = {
 }
 
 function Greeter(){
+  EventEmitter.call(this); //super constructor
   this.greeting = "Welcome back, ";
   this.lastLogin = "Last login: ";
 }
