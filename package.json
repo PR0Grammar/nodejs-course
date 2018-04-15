@@ -12,6 +12,7 @@
     "emitter": "0.0.5",
     "eventemitter": "^0.3.3",
     "events": "^2.0.0",
+    "express": "^4.16.3",
     "prompt": "^1.0.0",
     "util": "^0.10.3",
     "utilities": "^1.0.5"
