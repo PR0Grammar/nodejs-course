@@ -1,0 +1,12 @@
+doctype html
+html(ng-app='TestApp')
+  include includes/head.pug
+  body(ng-controller="MainController as vm")
+    input(id='personBox' type="text" ng-model="vm.peopleInput")
+    br
+    button(ng-click="vm.addPerson()") Add to list
+    p.from-angular {{vm.message}}
+    ul
+      li(ng-repeat="person in vm.people track by $index") {{person}}
+    script(src='/assets/js/app.js')
+    
