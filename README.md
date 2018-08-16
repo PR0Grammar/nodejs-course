@@ -1,3 +1,3 @@
 # nodejs-course
 
-Assignments from "Learn and Understand Node JS" by Anthony Alicea
+Implementations of lessons from "Learn and Understand Node JS" by Anthony Alicea
